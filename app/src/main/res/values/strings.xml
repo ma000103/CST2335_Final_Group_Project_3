@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">CST2335_Final_Group_Project</string>
+    <string name="title_home">Automobile</string>
+    <string name="title_dashboard">Nutrition Tracker</string>
+    <string name="title_notifications">House Thermostat</string>
+    <string name="title_notifications1">Activity Tracking</string>
+    <string name="title_activity_food__nutrition__tracker">Food_Nutrition_Tracker</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="ok">Ok</string>
+    <string name="action_help">Help</string>
+    <string name="version_info">CST2335 Final Project, Version 1.0 By Jinling Ma</string>
+    <string name="toolbar_dialog">Nutrition Tracker Help</string>
+    <string name="helpMsg">
+        \nVersion: 1.0\nAuthor: Jiling Ma\n\n
+
+        To add new Nutrition information, click Todays Nutrition option from side bar.\n
+        To view history, select History option from side bar.\n
+        To delete recode, simply select the recode and click the delete button.
+
+    </string>
+    <string name="food_name">Food Name:</string>
+    <string name="edit_food_name">what have you had today?</string>
+    <string name="Calories">Total Calories:</string>
+    <string name="CaloriesHit">How many Calories it has?</string>
+    <string name="fat">Total Fat:</string>
+    <string name="fatHint">How many fat it has?</string>
+    <string name="Carbohydrate">Carbohydrate:</string>
+    <string name="CarbohydrateHint">How many Carbohydrate it has?</string>
+    <string name="Protein">Total Protein:</string>
+    <string name="ProteinHint">How many Protein it has?</string>
+    <string name="Date">Date</string>
+    <string name="DateHint">When did you had your food?</string>
+    <string name="Time">Time</string>
+    <string name="TimeHint">What time did you had your food?</string>
+    <string name="submit">Add</string>
+    <string name="update">UPDATE</string>
+    <string name="Today_Summary">Today Nutrition Summary</string>
+    <string name="CaloriesAvg">Average Calories:</string>
+    <string name="calAvg">Average Calories per day</string>
+    <string name="totalCalYd">Total Calories were eaten last day:</string>
+    <string name="contant">AutoMobile is a keeping record gas you buy and how much Kilometer you travel,also its store price</string>
+
+    <string name="contantT">Thermostate is an app that is use to set rule
+    like Days Time Temperature and you can edit it and also delate entry accourding to your
+    requirements .</string>
+    <string name="spinner_title">Select Category</string>
+</resources>
